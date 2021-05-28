@@ -1,0 +1,16 @@
+D:\balta\oobjetos\Payments\bin\Debug\net5.0\classe_e_objeto.exe
+D:\balta\oobjetos\Payments\bin\Debug\net5.0\classe_e_objeto.deps.json
+D:\balta\oobjetos\Payments\bin\Debug\net5.0\classe_e_objeto.runtimeconfig.json
+D:\balta\oobjetos\Payments\bin\Debug\net5.0\classe_e_objeto.runtimeconfig.dev.json
+D:\balta\oobjetos\Payments\bin\Debug\net5.0\classe_e_objeto.dll
+D:\balta\oobjetos\Payments\bin\Debug\net5.0\ref\classe_e_objeto.dll
+D:\balta\oobjetos\Payments\bin\Debug\net5.0\classe_e_objeto.pdb
+D:\balta\oobjetos\Payments\obj\Debug\net5.0\classe_e_objeto.csprojAssemblyReference.cache
+D:\balta\oobjetos\Payments\obj\Debug\net5.0\classe_e_objeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\balta\oobjetos\Payments\obj\Debug\net5.0\classe_e_objeto.AssemblyInfoInputs.cache
+D:\balta\oobjetos\Payments\obj\Debug\net5.0\classe_e_objeto.AssemblyInfo.cs
+D:\balta\oobjetos\Payments\obj\Debug\net5.0\classe_e_objeto.csproj.CoreCompileInputs.cache
+D:\balta\oobjetos\Payments\obj\Debug\net5.0\classe_e_objeto.dll
+D:\balta\oobjetos\Payments\obj\Debug\net5.0\ref\classe_e_objeto.dll
+D:\balta\oobjetos\Payments\obj\Debug\net5.0\classe_e_objeto.pdb
+D:\balta\oobjetos\Payments\obj\Debug\net5.0\classe_e_objeto.genruntimeconfig.cache
